@@ -1,1 +1,12 @@
-readMe
+readMe first every week on monday
+
+1. checkout the status of every host backup log everday
+2. check the email about alert from UTM
+3. check the  Mail Server running status
+4. vCenter running status is good or not
+5. PC repair case any else
+6. ERP issue review and maintain log
+7. coding everyday and program review
+8. any news about MIS/IT
+9. ISO-27001 issue
+10. working with my pal at office
